@@ -110,7 +110,7 @@ public class FenetreSelectionMenu extends JFrame implements ActionListener{
         Performance.setVisible(false);
 
         this.add(Panneau1);
-        setVisible(true);
+        setVisible(false);
     }
 
     public void actionPerformed(ActionEvent e){

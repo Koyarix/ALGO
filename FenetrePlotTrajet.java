@@ -35,3 +35,5 @@ public class FenetrePlotTrajet extends JFrame implements ActionListener{
     public void actionPerformed (ActionEvent e){
     }
 }
+public class FenetrePlotTrajet {
+}
